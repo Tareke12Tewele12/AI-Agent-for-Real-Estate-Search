@@ -18,7 +18,6 @@ buyers' needs while ensuring factual integrity is maintained. The system is desi
  
  A notebook that shows how to use the real state agent is also provide (`real-state-matching.ipynb`).
 
-![./images/homematch.png](./images/homematch.png)
 
 Figure 1: Home matching pipeline
 
@@ -143,7 +142,6 @@ The app allows users:
 The app shows both images and description.
  The app is connected to a house matching logic which 
  
-![app](./images/app.PNG)
 
 Figure 2: Home matching app
 
@@ -164,7 +162,6 @@ It retrieves matching listings, along with their images.
 
 Finally, the search and the augmented response generation logics provide images of the matching properties and a personalized description of the property according to the user preference. These are displayed on the app.
 
-![sample result](./images/results.PNG)
 
 Figure 3: Sample results showing listing with similar description to user preference, with personalised description of the 
 real estates along with the listing image.
